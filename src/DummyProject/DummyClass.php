@@ -6,6 +6,6 @@ class DummyClass
 {
     public function execute()
     {
-        var_dump("Welcome to PHP Coding Dojo!");
+        echo "Welcome to PHP Coding Dojo!";
     }
 }
